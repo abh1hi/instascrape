@@ -1,0 +1,25 @@
+{
+  "name": "consolidated-instagram-scripts",
+  "version": "1.0.0",
+  "description": "Collection of Instagram scraping and data extraction tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "scraper",
+    "puppeteer",
+    "cheerio",
+    "jsdom"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "jsdom": "^22.1.0",
+    "node-fetch": "^2.6.11",
+    "puppeteer": "^20.7.3",
+    "puppeteer-core": "^20.7.3"
+  }
+}

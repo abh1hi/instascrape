@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+saved_pages/
+extracted_data.json
+input_templates/usenma.json
